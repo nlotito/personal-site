@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Nicholas Lotito"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Nicholas Lotito personal academic site"
+description = "Nicholas Lotito Yale University personal academic site"
 
 ############################
 ## Site Features
@@ -269,6 +269,9 @@ plugins_js  = []
   # To use OpenStreetMap tiles, set `engine` to 2.
   # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
   #   https://www.mapbox.com/studio/account/tokens
+  #
+  # google api
+  #  https://console.cloud.google.com/apis/credentials?project=keen-truth-282212
   #
   # Map provider:
   #   0: No map
