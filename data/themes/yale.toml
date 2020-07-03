@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Yale"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#286dc0"
+primary_light = "#63aaff"
+primary_dark = "#00356b"
+
+# Menu
+menu_primary = "#00356b"
+menu_text = "#fff"
+menu_text_active = "#286dc0"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "#f9f9f9"
