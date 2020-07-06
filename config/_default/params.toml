@@ -73,9 +73,9 @@ diagram = false
 #   Anonymize IP in Google Analytics (if enabled)
 privacy_pack = false
 
-# Enable visitors to edit pages?
-#   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+# # Enable visitors to edit pages?
+# #   `repo` defines the repository URL. `editable` defines which page types can be edited.
+# edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "115 Prospect Street", city = "New Haven", region = "CT", postcode = "06517", country = "United States", country_code = "US"}
+address = {street = "115 Prospect Street", city = "New Haven", region = "CT", postcode = "06520", country = "United States", country_code = "US"}
 # address = "Rosenkrantz Hall, Yale University, New Haven, CT 06520"
 
 # Geographic coordinates
@@ -101,7 +101,7 @@ address = {street = "115 Prospect Street", city = "New Haven", region = "CT", po
 coordinates = {latitude = "41.314742", longitude = "-72.924362"}
 
 # Directions for visitors to locate you.
-directions = "Rosenkrantz Hall, first floor"
+directions = "Rosenkrantz Hall, Room 111 (first floor)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
