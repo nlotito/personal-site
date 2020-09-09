@@ -1,5 +1,5 @@
 +++
-title = "Public Trust in Authoritarian and Democratizing Armies"
+title = "Public Trust in the Military"
 date = 2019-04-02T08:56:16-04:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "What explains high public trust in the armed forces in authoritarian and democratizing countries?"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
