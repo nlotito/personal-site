@@ -17,7 +17,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Conflict Management and Peace Science* (Conditionally Accepted)"
+publication: "*Conflict Management and Peace Science* (Forthcoming)"
 publication_short: ""
 
 abstract: "The Terrorism in Armed Conflict (TAC) project integrates the Uppsala
