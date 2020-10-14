@@ -19,7 +19,7 @@ summary = "Data project on the use of terrorism in civil war."
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://tac.nicklotito.com"
+external_link = "https://github.com/TACDataProject/TAC"
 
 # Links (optional).
 url_pdf = ""
