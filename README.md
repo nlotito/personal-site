@@ -1,4 +1,4 @@
-# Personal Website
+# Personal Site: nicklotito.com
 
 Please visit my academic website, [nicklotito.com](https://nicklotito.com).
 
