@@ -32,13 +32,13 @@ tags:
 featured: false
 
 links:
-# - name: "Supplementary Materials"
-#   url: "http://www.michaelarubin.com/research.html"
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+- name: "Supplementary Materials"
+  url: "http://www.michaelarubin.com/research.html"
+url_pdf: https://www.dropbox.com/sh/f3e8d9xy2mh7zgp/AACSLV2AWhj0q3UQjC8cBlLba?dl=0&preview=Dont_Bite_the_Hand_Preprint.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://tac.nicklotito.com'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -55,7 +55,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["TAC"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -42,13 +42,17 @@ tags:
 featured: false
 
 links:
+    - icon_pack: fab
+      icon: github
+      name: GitHub
+      url: https://github.com/TACDataProject/TAC
 # - name: "Supplementary Materials"
 #   url: "http://www.michaelarubin.com/research.html"
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://tac.nicklotito.com'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -65,7 +69,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["TAC"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
