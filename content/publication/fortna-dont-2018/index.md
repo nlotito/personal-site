@@ -1,5 +1,6 @@
 ---
-title: "Don't Bite the Hand That Feeds: Rebel Funding Sources and the Use of Terrorism in Civil Wars"
+title: "Don't Bite the Hand That Feeds"
+subtitle: Rebel Funding Sources and the Use of Terrorism in Civil Wars
 authors:
 - V. Page Fortna
 - Nicholas J. Lotito
@@ -34,7 +35,7 @@ featured: false
 links:
 - name: "Supplementary Materials"
   url: "http://www.michaelarubin.com/research.html"
-url_pdf: https://www.dropbox.com/sh/f3e8d9xy2mh7zgp/AACSLV2AWhj0q3UQjC8cBlLba?dl=0&preview=Dont_Bite_the_Hand_Preprint.pdf
+# url_pdf: https://www.dropbox.com/sh/f3e8d9xy2mh7zgp/AACSLV2AWhj0q3UQjC8cBlLba?dl=0&preview=Dont_Bite_the_Hand_Preprint.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
