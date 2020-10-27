@@ -32,6 +32,7 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+links = [{name="Dissertation", url = "https://academiccommons.columbia.edu/doi/10.7916/D8X654TS"}, {name="Working Paper", url = ""}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -44,5 +45,4 @@ url_poster = ""
   focal_point = ""
 +++
 
-This book project explores civil-military relations in democratizing contexts, specifically how the historical relationship between the military and the population shapes responses to political crises such as riots and revolutions. I develop a theory, rooted in civil-military relations literature from political science and sociology, for how an army’s historical linkages with the population generate organizational culture and practices toward the population, which in turn influence the military’s response to a popular uprising. I provide interview and documentary evidence of this process from Tunisia, where the historical development of positive military-society relations was critical in making possible the “revolution of dignity” of 14 January 2011.
-
+This project explores civil-military relations in democratizing contexts, specifically how the historical relationship between the military and the population shapes responses to political crises such as riots and revolutions. In my dissertation, [*Soldiers and Societies in Revolt: Military Doctrine in the Arab Spring*](https://academiccommons.columbia.edu/doi/10.7916/D8X654TS), I develop a theory, rooted in civil-military relations literature from political science and sociology, for how an army’s historical linkages with the population generate organizational culture and practices toward the population, which in turn influence the military’s response to a popular uprising. I provide interview and documentary evidence of this process from Tunisia, where the historical development of positive military-society relations was critical in making possible the “revolution of dignity” of 14 January 2011.
