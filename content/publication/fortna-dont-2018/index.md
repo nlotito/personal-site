@@ -1,6 +1,5 @@
 ---
-title: "Don't Bite the Hand That Feeds"
-subtitle: Rebel Funding Sources and the Use of Terrorism in Civil Wars
+title: "Don't Bite the Hand That Feeds: Rebel Funding Sources and the Use of Terrorism in Civil Wars"
 authors:
 - V. Page Fortna
 - Nicholas J. Lotito
