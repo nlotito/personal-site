@@ -4,8 +4,8 @@ authors:
 - V. Page Fortna
 - Nicholas J. Lotito
 - Michael A. Rubin
-date: "2020-09-01T00:00:00Z"
-doi: ""
+date: "2020-12-21T00:00:00Z"
+doi: "10.1177/0738894220972996"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
@@ -17,7 +17,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Conflict Management and Peace Science* (Forthcoming)"
+publication: "*Conflict Management and Peace Science*"
 publication_short: ""
 
 abstract: "The Terrorism in Armed Conflict (TAC) project integrates the Uppsala
