@@ -45,7 +45,7 @@ subtitle = ""
  css_class = ""
 +++
 
-* Military Politics in Muslim Societies, [*The Oxford Handbook of Politics in Muslim Societies*](http://doi.org/10.1093/oxfordhb/9780190931056.001.0001) (in production).
+* [Military Politics in Muslim Societies](https://doi.org/10.1093/oxfordhb/9780190931056.013.44), *The Oxford Handbook of Politics in Muslim Societies*, Dec. 2020.
 * [Islamism in Civil War](https://apsamena.org/2020/06/01/mena-politics-newsletter-31-spring-2020/), *APSA MENA Politics Newsletter 3*(1), Spring 2020.
 {{% staticrefbtn "files/writing/apsa-mena-politics-newsletter-spring-2020-1.pdf" %}}PDF{{% /staticrefbtn %}}
 * [Public Trust in Arab Armies](https://carnegieendowment.org/sada/77610), *Sada*, Carnegie Middle East Center, Oct. 1, 2018.
