@@ -18,7 +18,7 @@ publishDate: 2020-09-09T13:44:40-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Politics & Gender*"
+publication: "*Politics & Gender 16*(4)"
 publication_short: ""
 
 abstract: "Media outlets have reported that women leaders around the globe are managing the COVID-19 crisis better than their male counterparts, responding faster and communicating better about pandemic policies. In this article, we examine empirical data on the timing of policy responses from the Coronavirus Government Response Tracker to determine whether and how countries led by women reacted differently to the pandemic. Exploring the relationship between the gender of leaders and legislators and the timing of stay-at-home orders, school closures, and coordinated public information campaigns, we find no statistical evidence supporting popular claims in the media. However, we find some evidence that the level of gender equality in legislatures is related to school closures, a policy with clear gendered consequences. These conclusions are an important first step in understanding the potentially gendered nature of the crisis response and identifying new avenues for research."

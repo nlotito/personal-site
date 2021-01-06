@@ -5,7 +5,7 @@ authors:
 - Nicholas J. Lotito
 - Michael A. Rubin
 date: "2020-09-01T00:00:00Z"
-doi: ""
+doi: "10.1177/0738894220972996"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
@@ -17,20 +17,10 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Conflict Management and Peace Science* (Forthcoming)"
+publication: "*Conflict Management and Peace Science*"
 publication_short: ""
 
-abstract: "The Terrorism in Armed Conflict (TAC) project integrates the Uppsala
-Conflict Data Project (UCDP) sample of rebel organizations with START’s
-Global Terrorism Database (GTD), covering 409 organizations 1970-
-2013. Many GTD incidents are missing, or include ambiguous,
-perpetrator information. Because the accuracy of perpetrator information
-likely varies systematically, simply dropping these incidents from
-analyses may bias results. TAC provides possible attribution to specific
-rebel groups with coding for uncertainty, enabling researchers to 1)
-address 'description bias' in media-based terrorism data, 2) model
-uncertainty regarding perpetrator attribution, and 3) vary the way
-terrorism is counted."
+abstract: "The Terrorism in Armed Conflict project integrates the Uppsala Conflict Data Project sample of rebel organizations with START’s Global Terrorism Database, covering 409 organizations for 1970–2013. For many Global Terrorism Database incidents, perpetrator information is missing, or ambiguous. Because the accuracy of perpetrator information likely varies systematically, simply dropping these incidents from analyses may bias results. Terrorism in Armed Conflict provides possible attribution to specific rebel groups with coding for uncertainty, enabling researchers to (1) address “description bias” in media-based terrorism data, (2) model uncertainty regarding perpetrator attribution and (3) vary the way terrorism is counted. The Terrorism in Armed Conflict dataset further provides a measure of *deliberately indiscriminate* terrorism that allows for more nuanced testing of arguments about the strategic logic of terrorism."
 
 # Summary. An optional shortened abstract.
 # summary: 
