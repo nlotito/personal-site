@@ -47,6 +47,6 @@ subtitle = ""
 
 * {{% staticref "files/courses/GLBL288.pdf" "newtab" %}}GLBL 288: Civil-Military Relations & Democratization{{% /staticref %}}
 * {{% staticref "files/courses/PLSC221.pdf" "newtab" %}}PLSC 221: American Extremism in Comparative Perspective{{% /staticref %}}
-* {{% staticref "files/courses/GLBL603.pdf" "newtab" %}}GLBL 603: Terrorism & Global Development{{% /staticref %}}
+* {{% staticref "files/courses/GLBL603.pdf" "newtab" %}}GLBL 603: Political Economy of Terrorism{{% /staticref %}}
 * {{% staticref "files/courses/PLSC121.pdf" "newtab" %}}PLSC/MMES 121: International Relations of the Middle East{{% /staticref %}}
 * {{% staticref "files/courses/PLSC111.pdf" "newtab" %}}PLSC 111/GLBL 268: Introduction to International Relations{{% /staticref %}}
