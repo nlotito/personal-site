@@ -32,7 +32,7 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
-links = [{name="Dissertation", url = "https://academiccommons.columbia.edu/doi/10.7916/D8X654TS"}, {name="Working Paper", url = ""}]
+links = [{name="Dissertation", url = "https://academiccommons.columbia.edu/doi/10.7916/D8X654TS"}, {name="Working Paper", url = "https://osf.io/preprints/socarxiv/5p8rc"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

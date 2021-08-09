@@ -45,6 +45,8 @@ subtitle = ""
  css_class = ""
 +++
 
+* [Tunisia’s president launched a political crisis. Is it a
+coup?](https://www.washingtonpost.com/politics/2021/07/29/tunisias-president-launched-political-crisis-is-it-coup/), *Washington Post*, July 29, 2021. {{% staticrefbtn "files/writing/monkeycage2021.pdf" %}}PDF{{% /staticrefbtn %}}
 * [Military Politics in Muslim Societies](https://doi.org/10.1093/oxfordhb/9780190931056.013.44), *The Oxford Handbook of Politics in Muslim Societies*, Dec. 2020.
 * [Islamism in Civil War](https://apsamena.org/2020/06/01/mena-politics-newsletter-31-spring-2020/), *APSA MENA Politics Newsletter 3*(1), Spring 2020.
 {{% staticrefbtn "files/writing/apsa-mena-politics-newsletter-spring-2020-1.pdf" %}}PDF{{% /staticrefbtn %}}
