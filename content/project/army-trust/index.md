@@ -44,7 +44,7 @@ url_poster = ""
   focal_point = ""
 +++
 
-With [Renanah Miles Joyce](https://www.renanahmiles.com/)
+With [Renanah Miles Joyce](https://www.renanahjoyce.com/)
 
 <!-- {{< figure src="map.png" title="Global trust in the military." >}} -->
 <!-- ![global trust in the military](map.png) -->
