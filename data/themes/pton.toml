@@ -1,18 +1,18 @@
 # Theme metadata
-name = "Princeton"
+name = "Princeton Light"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
-primary = "#F58025"
+primary = "#E77500"
 
 # Menu
-menu_primary = "rgb(20, 22, 34)"
-menu_text = "rgba(255,255,255,0.6)"
+menu_primary = "#000000"
+menu_text = "#ffffff"
 menu_text_active = "#F58025"
 menu_title = "#F58025"
 
 # Home sections
-home_section_odd = "hsla(231, 15%, 18%, 1)"
-home_section_even = "hsla(231, 15%, 16%, 1)"
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "#f9f9f9"
