@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer, Political Science and Global Affairs
+role: Associate Research Scholar, School of Public and International Affairs
 
 # Organizations/Affiliations
 organizations:
-- name: Yale University
-  url: "https://politicalscience.yale.edu/"
+- name: Princeton University
+  url: "https://spia.princeton.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lecturer at Yale University, where I teach in the Department of Political Science and the Jackson Institute of Global Affairs.
+bio: Researcher at Princeton University, where I teach in the School of Public and International Affairs and the Department of Politics.
 
 interests:
 - International Security
@@ -73,4 +73,4 @@ email: ""
 # - Visitors
 ---
 
-I’m a lecturer at Yale University, where I teach in the Department of Political Science and the Jackson Institute of Global Affairs. My research focuses on civil-military relations and political violence, with an emphasis on North Africa and the Middle East.
+I’m a researcher at Princeton University, where I teach in the School of Public and International Affairs and the Department of Politics. My research focuses on civil-military relations and political violence, with an emphasis on North Africa and the Middle East.
