@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "Yale"
+theme = "ptonlite"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Nicholas Lotito"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Nicholas Lotito Yale University personal academic site"
+description = "Nicholas Lotito Princeton University personal academic site"
 
 ############################
 ## Site Features
@@ -88,20 +88,19 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "nicholas.lotito@yale.edu"
+email = "nlotito@princeton.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "115 Prospect Street", city = "New Haven", region = "CT", postcode = "06520", country = "United States", country_code = "US"}
-# address = "Rosenkrantz Hall, Yale University, New Haven, CT 06520"
+address = {street = "Robertson Hall", city = "Princeton", region = "NJ", postcode = "08540", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "41.314742", longitude = "-72.924362"}
 
 # Directions for visitors to locate you.
-directions = "Rosenkrantz Hall, Room 111 (first floor)"
+directions = "Robertson Hall"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
