@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/NickLotito
 - icon: mastodon
   icon_pack: fab
-  link: https://fediscience.org/web/@nicklotito
+  link: https://sciences.social/web/@nicklotito
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3k2GkOEAAAAJ
