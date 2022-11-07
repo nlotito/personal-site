@@ -76,4 +76,4 @@ email: ""
 # - Visitors
 ---
 
-I’m a researcher at Princeton University, where I teach in the School of Public and International Affairs and the Department of Politics. My research focuses on civil-military relations and political violence, with an emphasis on North Africa and the Middle East.
+I’m a researcher at Princeton University, where I teach in the School of Public and International Affairs and the Department of Politics. My research focuses on civil-military relations and political violence, with an emphasis on North Africa and the Middle East.<a rel="me" href="https://fediscience.org/@nicklotito"></a>
