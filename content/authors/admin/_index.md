@@ -48,9 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/NickLotito
-- icon: mastodon
-  icon_pack: fab
-  link: https://sciences.social/web/@nicklotito
+#- icon: mastodon
+#  icon_pack: fab
+#  link: https://sciences.social/web/@nicklotito
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3k2GkOEAAAAJ
@@ -76,4 +76,4 @@ email: ""
 # - Visitors
 ---
 
-I’m a researcher at Princeton University, where I teach in the School of Public and International Affairs and the Department of Politics. My research focuses on civil-military relations and political violence, with an emphasis on North Africa and the Middle East.<a rel="me" href="https://fediscience.org/@nicklotito"></a>
+I’m a researcher at Princeton University, where I teach in the School of Public and International Affairs and the Department of Politics. My research focuses on civil-military relations and political violence, with an emphasis on North Africa and the Middle East.<a rel="me" href="https://sciences.social/@nicklotito"></a>
