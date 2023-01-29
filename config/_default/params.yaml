@@ -97,7 +97,7 @@ features:
     provider: 'mapbox'
     api_key: 'pk.eyJ1IjoibmxvdGl0byIsImEiOiJjbGRoYTk1cHUxMjdkM25waWc3dnZzMzI0In0.8diuYMzCiIdiztEijhCfzw'
     #'AIzaSyAnem-me0z4q_ZCNbIhzOOyHCW5HPL4CaY'
-    zoom: 15
+    zoom: 16
 
 # Extensions
 
