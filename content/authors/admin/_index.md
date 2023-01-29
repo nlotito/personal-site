@@ -2,9 +2,17 @@
 # Display name
 title: Nick Lotito
 
-# Username (this should match the folder name)
-authors:
-- admin
+# Full name (for SEO)
+first_name: Nicholas
+last_name: Lotito
+
+# # Username (this should match the folder name)
+# authors:
+# - admin
+
+# Status emoji
+# status:
+#   icon: 🌍 #🛵 
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,15 +23,15 @@ role: Associate Research Scholar, School of Public and International Affairs
 # Organizations/Affiliations
 organizations:
 - name: Princeton University
-  url: "https://spia.princeton.edu/"
+  url: https://spia.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher at Princeton University, where I teach in the School of Public and International Affairs and the Department of Politics.
+bio: Political scientist at Princeton University studying civil-military relations and international security in North Africa and the Middle East.
 
 interests:
-- International Security
-- Civil-Military Relations
-- Middle East and North Africa
+  - International Security
+  - Civil-Military Relations
+  - Middle East and North Africa
 
 education:
   courses:
@@ -48,9 +56,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/NickLotito
-#- icon: mastodon
-#  icon_pack: fab
-#  link: https://sciences.social/web/@nicklotito
+# - icon: mastodon
+#   icon_pack: fab
+#   link: https://sciences.social/web/@nicklotito
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3k2GkOEAAAAJ
@@ -64,16 +72,15 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 ---
 
-I’m a researcher at Princeton University, where I teach in the School of Public and International Affairs and the Department of Politics. My research focuses on civil-military relations and political violence, with an emphasis on North Africa and the Middle East.<a rel="me" href="https://sciences.social/web/@nicklotito"></a>
+I’m a political scientist studying civil-military relations and international security in North Africa and the Middle East. At Princeton, I teach in the School of Public and International Affairs and the Department of Politics.<a rel="me" href="https://sciences.social/web/@nicklotito"></a>
+{style="text-align: justify;"}

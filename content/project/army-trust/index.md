@@ -37,7 +37,7 @@ url_poster = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Illustration of a smiling soldier shaking hands with a civilian in Nairobi (Nick Lotito × DALL·E)."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

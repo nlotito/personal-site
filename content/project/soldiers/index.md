@@ -1,6 +1,6 @@
 +++
 title = "Soldiers and Societies in Revolt"
-date = 2019-04-01T22:43:13-04:00
+date = 2022-04-01T22:43:13-04:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = ["MENA", "civil-military relations"]
 
 # Project summary to display on homepage.
-summary = "Military organizational culture in the Arab Spring."
+summary = "How does military culture influence responses to protest?"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -38,7 +38,7 @@ links = [{name="Dissertation", url = "https://academiccommons.columbia.edu/doi/1
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Illustration of a protest in Tunis with military helicopters overhead (Nick Lotito × DALL·E)."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

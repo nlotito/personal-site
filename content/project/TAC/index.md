@@ -38,7 +38,7 @@ links = [{icon_pack = "fab", icon="github", name="Go to Project Page on GitHub",
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Factions in civil conflicts regularly evoke Monty Python’s spoof of the distinction between the Judean People’s Front and the People’s Front of Judea (Jones 1979)."
+  caption = "Illustration of an abstract network map (Nick Lotito × DALL·E)."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

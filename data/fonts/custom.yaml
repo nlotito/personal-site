@@ -1,0 +1,15 @@
+# Font style metadata
+name: Custom
+
+# Optional Google font URL
+google_fonts: "Montserrat:400,700|Raleway:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font: "Montserrat"
+body_font: "Raleway"
+nav_font: "Raleway"
+mono_font: "Roboto Mono"
+
+# Font size
+font_size: "20"
+font_size_small: "16"
