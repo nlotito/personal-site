@@ -211,7 +211,7 @@ sections:
       text: 
       # Contact (add or remove contact options as necessary)
       email: nlotito@princeton.edu
-      phone: 
+      phone: ''
       appointment_url: 'https://calendly.com/nicklotito/'
       # address:
       #   street: Princeton University
@@ -222,8 +222,7 @@ sections:
       #   country_code: US
       directions: 
         118 Bendheim Hall, Princeton University
-      office_hours:
-        - 'By appointment only'
+      office_hours: 'By appointment only'
         # - 'Monday 10:00 to 13:00'
         # - 'Wednesday 09:00 to 10:00'
       coordinates:
