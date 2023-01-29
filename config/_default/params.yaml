@@ -94,8 +94,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'google'
-    api_key: 'AIzaSyAnem-me0z4q_ZCNbIhzOOyHCW5HPL4CaY'
+    provider: 'mapbox'
+    api_key: #'AIzaSyAnem-me0z4q_ZCNbIhzOOyHCW5HPL4CaY'
     zoom: 15
 
 # Extensions
