@@ -21,7 +21,7 @@ marketing:
     description: 'Nicholas Lotito Princeton University personal academic site'
     twitter: 'NickLotito'
   analytics:
-    google_analytics: 'UA-47962935-2'
+    google_analytics: 'G-X81EY9Y80R' #'UA-47962935-2'
     baidu_tongji: ''
   verification:
     google: ''
