@@ -21,7 +21,7 @@ marketing:
     description: 'Nicholas Lotito Princeton University personal academic site'
     twitter: 'NickLotito'
   analytics:
-    google_analytics: 'G-X81EY9Y80R' #'UA-47962935-2'
+    google_analytics: 'G-X81EY9Y80R'
     baidu_tongji: ''
   verification:
     google: ''
@@ -94,10 +94,11 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapbox'
-    api_key: 'pk.eyJ1IjoibmxvdGl0byIsImEiOiJjbGRoYTk1cHUxMjdkM25waWc3dnZzMzI0In0.8diuYMzCiIdiztEijhCfzw'
-    #'AIzaSyAnem-me0z4q_ZCNbIhzOOyHCW5HPL4CaY'
+    provider: 'google'
+    api_key: 'AIzaSyAnem-me0z4q_ZCNbIhzOOyHCW5HPL4CaY'
     zoom: 16
+    #'mapbox'
+    #'pk.eyJ1IjoibmxvdGl0byIsImEiOiJjbGRoYTk1cHUxMjdkM25waWc3dnZzMzI0In0.8diuYMzCiIdiztEijhCfzw'
 
 # Extensions
 
