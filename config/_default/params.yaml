@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/nlotito/personal-site'
     content_dir: content
     branch: main
   avatar:
@@ -94,9 +94,10 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'google'
-    api_key: 'AIzaSyAnem-me0z4q_ZCNbIhzOOyHCW5HPL4CaY'
-    zoom: 15
+    provider: 'mapbox'
+    api_key: 'pk.eyJ1IjoibmxvdGl0byIsImEiOiJjbGRoYTk1cHUxMjdkM25waWc3dnZzMzI0In0.8diuYMzCiIdiztEijhCfzw'
+    #'AIzaSyAnem-me0z4q_ZCNbIhzOOyHCW5HPL4CaY'
+    zoom: 16
 
 # Extensions
 
