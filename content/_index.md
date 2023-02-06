@@ -158,6 +158,8 @@ sections:
       title: Other Writing
       subtitle: ''
       text: |2-
+        [Review of *The Contemporary Middle East in an Age of Upheaval* ed. by James L. Gelvin.](https://muse.jhu.edu/article/865513) *The Middle East Journal 76,* no. 2 (2022): 289-290. {{% staticrefbtn "uploads/writing/gelvin-review.pdf" %}}PDF{{% /staticrefbtn %}}
+
         [Tunisia’s president launched a political crisis. Is it a coup?](https://www.washingtonpost.com/politics/2021/07/29/tunisias-president-launched-political-crisis-is-it-coup/), *Washington Post*, July 29, 2021. {{% staticrefbtn "uploads/writing/monkeycage2021.pdf" %}}PDF{{% /staticrefbtn %}}
 
         [Islamism in Civil War](https://apsamena.org/2020/06/01/mena-politics-newsletter-31-spring-2020/), *APSA MENA Politics Newsletter 3*(1), Spring 2020. {{% staticrefbtn "uploads/writing/apsa-mena-politics-newsletter-spring-2020-1.pdf" %}}PDF{{% /staticrefbtn %}}
