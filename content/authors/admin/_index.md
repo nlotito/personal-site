@@ -26,10 +26,10 @@ organizations:
   url: https://spia.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Political scientist at Princeton University studying civil-military relations and international security in North Africa and the Middle East.
+bio: Political scientist at Princeton University studying international relations in North Africa and the Middle East.
 
 interests:
-  - International Security
+  - International Relations
   - Civil-Military Relations
   - Middle East and North Africa
 
@@ -82,6 +82,6 @@ highlight_name: true
 
 ---
 
-Hi! I’m a political scientist studying civil-military relations and international security in North Africa and the Middle East. My current research focuses on the role of the military in [protest response]({{< relref "/project/soldiers" >}}), [public trust]({{< relref "/project/army-trust" >}}) in the army, and foreign [military assistance]({{< relref "/project/map" >}}). I also work on [terrorism]({{< relref "/project/tac" >}}) and extremist violence. At Princeton, I teach in the [School of Public and International Affairs](https://spia.princeton.edu/) and the [Department of Politics](https://politics.princeton.edu/). I'm the proud husband of [Liz Nugent](https://elizabethnugent.com) and father of two girls.
+Hi! I’m a political scientist studying international relations in North Africa and the Middle East. My current research focuses on foreign investment in global [prestige sports]({{< relref "/project/prestige" >}}) like football :soccer: and motor racing :racing_car:. I also work on the role of the military in [protest response]({{< relref "/project/soldiers" >}}), [public trust]({{< relref "/project/army-trust" >}}) in the army, and problems of [terrorism]({{< relref "/project/tac" >}}) and extremist violence. At Princeton, I teach in the [School of Public and International Affairs](https://spia.princeton.edu/) and the [Department of Politics](https://politics.princeton.edu/). I'm the proud husband of [Liz Nugent](https://elizabethnugent.com) and father of two girls.
 <a rel="me" href="https://sciences.social/web/@nicklotito"></a>
 {style="text-align: justify;"}
